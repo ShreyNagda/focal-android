@@ -1,0 +1,6 @@
+{
+  "name": "Focal",
+  "description": "A highly functional, minimalist B&W focus and digital well-being application with Pomodoro timer, app blocker, daily usage limits, and system-level interventions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
